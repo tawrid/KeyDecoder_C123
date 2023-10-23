@@ -81,7 +81,7 @@ The most recent builds can be found in the [Play Store](https://play.google.com/
 
 Below is the overall project view of decoding the Schlage C123.
 <p align="center">
- <img src="assets/overall.png" width="100%">
+ <img src="assets/overview.png" width="100%">
 </p>
 
 # Steps to achieve this

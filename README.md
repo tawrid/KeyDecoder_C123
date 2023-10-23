@@ -81,7 +81,7 @@ The most recent builds can be found in the [Play Store](https://play.google.com/
 
 Below is the overall project view of decoding the Schlage C123.
 <p align="center">
- <img src="assets/overview.png" width="100%">
+ <img src="assets/overview.png" width="400">
 </p>
 
 # Steps to achieve this
@@ -124,6 +124,16 @@ Once done, you can validate and retrieve your measures on your project's page.
 <p align="center">
  <img src="assets/measure.png" width="400">
 </p>
+
+## 6. Information
+
+After scanning, the key information is visitble.
+
+<p align="center">
+ <img src="assets/reading.png" width="400">
+</p>
+
+
 
 ## Reference
 
